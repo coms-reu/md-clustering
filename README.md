@@ -1,5 +1,8 @@
 # Performance Grading of Clustering Algorithms on Molecular Dynamics Simulations of Proteins
 
+## Research Poster
+![image](./poster-final.png)
+
 ## Abstract
 Computational studies continue to serve an important role in
 modeling and understanding protein dynamics in biology.
@@ -61,4 +64,3 @@ algorithms.
 • Different forcefields for the same protein may affect the robustness
 of the clustering algorithms. Further inquiry is required.
 
-## Research Poster
